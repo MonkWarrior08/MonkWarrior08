@@ -1,6 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/MonkWarrior08?label=Follow&style=social)](https://github.com/MonkWarrior08)
 [![Linkedin: Nino Morandini](https://img.shields.io/badge/-Nino_Morandini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nino-morandini-416286162/)](https://www.linkedin.com/in/nino-morandini-416286162/)
-![Profile Views](https://komarev.com/ghpvc/?username=MonkWarrior08&color=brightgreen)
 
 ## 👨‍💻 About Me
 
@@ -20,7 +19,3 @@ Currently studying: **Master's degree in Artificial Intelligence at Monash Unive
 <a href="https://github.com/MonkWarrior08">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkWarrior08&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-
-
-
-⭐️ From [MonkWarrior08](https://github.com/MonkWarrior08)
